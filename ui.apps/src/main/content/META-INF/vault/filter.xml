@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/drawing/clientlibs"/>
+    <filter root="/apps/drawing/components"/>
+    <filter root="/apps/drawing/i18n"/>
+</workspaceFilter>
